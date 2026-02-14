@@ -50,6 +50,7 @@ body {
 }
 
 .App {
+  margin: 50px;
   background:
     conic-gradient(#444444 0 0) padding-box,
     linear-gradient(to bottom, rgb(244, 255, 97), rgb(255, 85, 142)) border-box;
