@@ -46,4 +46,19 @@ body {
   height: 800px;
   width: 600px;
   transform: translate(-50%, -50%);
+  background-color: #444444;
+}
+
+.App {
+  background:
+    conic-gradient(#444444 0 0) padding-box,
+    linear-gradient(to bottom, rgb(244, 255, 97), rgb(255, 85, 142)) border-box;
+  padding: 40px;
+  border: 10px solid transparent;
+  border-radius: 20px;
+  color: aliceblue
+}
+
+p {
+  font-weight: bold;
 }
